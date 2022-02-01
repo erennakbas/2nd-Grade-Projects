@@ -1,0 +1,8 @@
+- These assignments are related with data structures. I found these assignments
+very comprehensive and teaching. Assignment 1 was like an exercise for C++ and
+we had a problem with assignment 2 due to our researcher assistant's 
+not doing her work properly. So I just added assignment 3 and 4.
+
+- Again, first see the assignment instructions from pdf and understand how to run
+it, then run it. Every assignment is tested on our department's
+dev server. I also got full credit from this software laboratory course (BBM203).
