@@ -1,0 +1,7 @@
+-First you should examine the assignment instructions from the pdfs I uploaded. So that you can understand what is it for and how it's run. 
+This is important for you to get the idea of the projects.
+
+Every assignment is tested on our department's
+dev server. Each one of it works fine, I got full credit from both
+of my laboratory courses (BBM203-BBM204).
+
